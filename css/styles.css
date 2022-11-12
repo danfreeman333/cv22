@@ -1,0 +1,18 @@
+
+body {
+    background-color: #fcffee;
+  }
+
+
+hr {
+    border: 15px #FF7D7D;
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+  }
+
+/* ******TEXT STYLING******* */
+h1 {
+  font-family: 'Public Sans';
+  font-weight: 900;
+}
